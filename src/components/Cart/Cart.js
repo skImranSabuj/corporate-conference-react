@@ -5,7 +5,7 @@ import { faWindowClose } from '@fortawesome/free-solid-svg-icons';
 const removeIcon = <FontAwesomeIcon icon={faWindowClose} />
 
 const Cart = (props) => {
-    const { img, first_name, last_name, gender, Profession, Salary, email } = props.cart;
+    const { img, first_name, last_name, Profession, Salary } = props.cart;
     return (
         <div className="text-center cart">
             <img className="img-fluid" src={img} alt="" />
