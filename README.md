@@ -10,5 +10,5 @@ This a sample site made with React that includes dummy data different corporate 
 This section includes the Title and about of the site and also have a nav bar
 #### 2: Card Section Showing Corporate Heros (Left)
 This section includes 3 cards per row show detais about the persons
-#### 1: Card Section (right)
+#### 3: Cart Section (right)
 This section includes the Cart That adds up the booked persones
