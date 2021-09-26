@@ -1,0 +1,18 @@
+.carts-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 5px;
+    border: 1.5px solid rgba(255, 255, 255, 0.795);
+    background-color: #583231d7;
+    padding: 10px 0;
+    margin-left: 10px;
+    border-radius: 2px;
+}
+.count{
+    background-color: #583231d7;
+    font-size: 24px;
+    margin: auto auto;
+    padding: 0 10px;
+    border-radius: 50%;
+    border: 1px solid white;
+}

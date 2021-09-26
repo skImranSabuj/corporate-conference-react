@@ -1,0 +1,41 @@
+.cards{
+    background-color: #4f7090ba;
+    background-color: #523938b8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    padding: 10px 10px;
+    border: 1.5px solid rgba(255, 255, 255, 0.245);
+}
+.cards:hover{
+    background-color: #583231d7;
+    border: 1.5px solid rgba(255, 255, 255, 0.707);
+}
+.photo{
+    width: 255px;
+    height: 255px;
+    background-color:#ffc1076f;
+    overflow: hidden;
+    padding: 10px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+   
+
+}
+.photo img{
+    width: 250px;
+    height: 235px;
+    border: 3px sold white;
+    border-radius: 50%;
+
+}
+
+.cards h3{
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.cards p{
+    font-size: 12px;
+}
